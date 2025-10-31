@@ -1,0 +1,37 @@
+body {
+  background: lineal-gradient(135deg, #ff22b2 #4c0cd6, #00426e);
+  font-family: Arial, sana-serif;
+  color: #070404;
+  padding: 0;
+
+}
+
+h1 {
+  color: #3d360b;
+  text-align: center;
+  text-shadow: 0 0 10px #0e080c;
+
+}
+
+h2 {
+  color:#411536;
+  text-align: center;
+  text-shadow: 0 0 8px #070404;
+
+}
+
+p { 
+text-align: center;
+color: #6e3b5d;
+
+}
+
+
+
+footer { 
+  text-align: center;
+  background-color: #b30086;
+  color: #4d293a;
+  padding: 10px;
+
+}
